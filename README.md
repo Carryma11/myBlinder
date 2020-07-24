@@ -1,4 +1,4 @@
-这是一个使用 Jupyter-Notebook 可视化深度学习中各种概念的项目。
-
-点击Binder按钮可在线运行
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/snowhitiger%2Flearn_deep_learning/master)
+This is an online project that can be presented without difficult environment creating.
+example：use Jupyter-Notebook to visualize the effect of training parameters on convergence speed in deep learning.
+Click Binder to run.
+[![Binder](https://mybinder.org/badge_logo.svg)]()
